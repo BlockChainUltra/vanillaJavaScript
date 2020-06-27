@@ -1,0 +1,2 @@
+# vanillaJavaScript
+Fist JS course
