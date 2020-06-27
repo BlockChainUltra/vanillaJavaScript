@@ -1,2 +1,2 @@
 # vanillaJavaScript
-Fist JS course
+First JS course
